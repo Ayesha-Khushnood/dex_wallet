@@ -140,7 +140,7 @@ flutter doctor
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dex-wallet.git
+   git clone [https://github.com/yourusername/dex-wallet.git](https://github.com/Ayesha-Khushnood/dex_wallet.git)
    cd dex-wallet
    ```
 
